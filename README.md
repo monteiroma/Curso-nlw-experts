@@ -1,2 +1,9 @@
 # Curso-nlw-experts
-Projeto Quiz feito em curso da NLW-EXPERTS de JS,CSS E HTML
+Projeto de um quiz feito no curso da NLW-EXPERTS sobre JavaScript
+
+Tecnologias Utilizadas nessa projeto :
+
+- HTML
+- CSS
+- JavaScript
+- GitHub
